@@ -1,8 +1,6 @@
 
 
-# Hi there, I'm Hareem Farooq 👋
-
-A **Data Analyst** passionate about leveraging data to drive business decisions and optimize strategies. I specialize in **Healthcare**, **Ecommerce**, **Supply Chain**, and **Customer Analytics**. I use a variety of tools and techniques to transform raw data into actionable insights.
+# Hi there, I'm Hareem Farooq 👋, A Bachelor's in Computer Science with a passion for data analysis and solving real-world problems through technology.
 
  🚀 **Interested Areas**
 - **Data Analytics**: Transforming raw data into clear, actionable insights.
