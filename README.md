@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Hareem Farooq 👋, A Bachelor's in Computer Science with a passion for data analysis and solving real-world problems through technology.
+# Hi there, I'm Hareem Farooq 👋 & I hold a Bachelor's in Computer Science with a passion for data analysis and solving real-world problems through technology.
 
  🚀 **Interested Areas**
 - **Data Analytics**: Transforming raw data into clear, actionable insights.
